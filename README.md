@@ -1,2 +1,2 @@
 # AutoSentiment-Analysis
-This project is an end-to-end NLP toolkit for analyzing car reviews. It includes sentiment analysis, translation, question answering, and summarization to extract valuable insights. This project helps businesses and consumers gain a comprehensive understanding of automotive feedback through automated text processing.
+This project is an end-to-end NLP toolkit for analyzing car reviews. It includes sentiment analysis, translation, question answering, and summarization to extract valuable insights. This project helps businesses and consumers gain a comprehensive understanding of automotive feedback through automated text processing. You can find the full report in report.pdf and the notebook file in notebook.ipynb.
